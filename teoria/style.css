@@ -1,0 +1,20 @@
+body {
+  background-color: gray;
+}
+
+h1 {
+  color: brown;
+  font-size: 40px;
+}
+
+
+/* # -> representa o id no html */
+#title {
+  color: blue;
+}
+
+/* . -> representa a classe no html */
+.paragrafo {
+  font-size: 20px;
+  color: green;
+}
